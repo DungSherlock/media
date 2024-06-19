@@ -1,14 +1,13 @@
 #EXTM3U
 
-#EXTINF:123,Track 1
+#EXTINF:123, Track 1
+#EXT-X-INFO:LYRICS="Lời bài hát cho track 1"
 https://smedia.stepup.edu.vn/thecoach/audio_TC2022/outline/voiceclaire_topic_8_en_2.mp3
-# Lời bài hát cho track 1
 
-#EXTINF:123,Track 2
+#EXTINF:123, Track 2
+#EXT-X-INFO:LYRICS="Lời bài hát cho track 2"
 https://smedia.stepup.edu.vn/thecoach/audio_TC2022/outline/voiceclaire_topic_8_en_6.mp3
-# Lời bài hát cho track 2
 
-#EXTINF:123,Track 3
+#EXTINF:123, Track 3
+#EXT-X-INFO:LYRICS="Lời bài hát cho track 3"
 https://smedia.stepup.edu.vn/thecoach/audio_TC2022/outline/voiceclaire_topic_8_en_7.mp3
-# Lời bài hát cho track 3
-
